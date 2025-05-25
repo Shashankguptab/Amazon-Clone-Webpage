@@ -17,4 +17,5 @@ This project is a simple and responsive E-commerce web page built using HTML, CS
 - CSS3 (Flexbox/Grid)
 - JavaScript
 
-
+## Assets 
+I have searched and collected some assets like logo and pictures for my web page which are free in public.
